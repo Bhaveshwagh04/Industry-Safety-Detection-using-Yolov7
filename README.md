@@ -2,7 +2,12 @@
 
 
 ## Workflows
-
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
 
 
 ## Git commands
@@ -13,7 +18,15 @@ git add .
 git commit -m "Updated"
 
 git push origin main
+
 ```
+
+## AWS Configurations
+
+```bash
+aws configure
+```
+
 
 ## How to run ?
 
