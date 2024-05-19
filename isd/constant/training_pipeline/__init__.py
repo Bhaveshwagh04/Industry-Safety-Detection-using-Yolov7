@@ -38,6 +38,6 @@ MODEL_TRAINER_PRETRAINED_WEIGHT_URL: str = (
     "https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt"
 )
 
-MODEL_TRAINER_NO_EPOCHS: int = 1
+MODEL_TRAINER_NO_EPOCHS: int = 100
 
 MODEL_TRAINER_BATCH_SIZE: int = 8
